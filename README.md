@@ -46,9 +46,6 @@ npm run build
 
 Creates an optimized production build in the `build` folder.
 
-## 📸 Screenshots
-
-![Task Manager Interface](https://nishj0gi-task-manager.netlify.app/screenshot.png)
 
 ## 🎯 Future Enhancements
 
